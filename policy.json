@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "hello.txt": {
+      "read": true,
+      "write": true
+    },
+    "hello2.txt": {
+      "read": false,
+      "write": false
+    }
+  }
+}
